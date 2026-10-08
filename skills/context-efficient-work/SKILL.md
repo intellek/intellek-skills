@@ -3,7 +3,7 @@ name: context-efficient-work
 description: "Base operating rules for efficient context, token, and credit usage across tasks. Apply lightweight context hygiene, scoped planning, memory-first retrieval, selective delegation, and cost-aware tools."
 license: Apache-2.0
 metadata:
-  author: "intellek"
+  author: "Ronald Ramirez Moran"
   version: "1.1"
 ---
 
